@@ -149,4 +149,9 @@ button {
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
+    color: #F4F4FD;
+}
+
+.website-footer {
+    background-color: #2E2F42;
 }
