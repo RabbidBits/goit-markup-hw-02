@@ -49,14 +49,17 @@ button {
 }
 
 .nav-address {
-    font-size: 16px;
-    line-height: 150%;
-    letter-spacing: 0.02em;
     font-style: normal;
 }
 
-.nav-address:hover,
-.nav-address:focus {
+.nav-address-item {
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+}
+
+.nav-address-item:hover,
+.nav-address-item:focus {
     color: #404BBF;
 }
 
@@ -97,6 +100,8 @@ button {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2E2F42;
+
+    text-transform: capitalize;
 }
 
 .benefits-title {
