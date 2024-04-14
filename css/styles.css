@@ -48,7 +48,6 @@ button {
 }
 
 .nav-address {
-    font-weight: 400;
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
@@ -63,7 +62,6 @@ button {
 /* Hero */
 
 .hero-title {
-    font-weight: 700;
     font-size: 56px;
     line-height: 107%;
     letter-spacing: 0.02em;
@@ -72,6 +70,7 @@ button {
 }
 
 .hero-btn {
+    font-family: inherit;
     font-weight: 500;
     font-size: 16px;
     line-height: 150%;
@@ -88,7 +87,6 @@ button {
 /* Benefits */
 
 .section-title {
-    font-weight: 700;
     font-size: 36px;
     line-height: 111%;
     letter-spacing: 0.02em;
